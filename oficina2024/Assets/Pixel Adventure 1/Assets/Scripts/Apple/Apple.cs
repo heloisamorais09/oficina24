@@ -30,8 +30,6 @@ public class Apple : MonoBehaviour
             sr.enabled = false;
             circle.enabled = false;
             collected.SetActive(true);
-
-            
             
             Destroy(gameObject, 0.25f);
         }
