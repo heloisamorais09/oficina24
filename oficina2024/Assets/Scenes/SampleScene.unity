@@ -204,7 +204,7 @@ GameObject:
   m_Component:
   - component: {fileID: 384491020}
   - component: {fileID: 384491019}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Square
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -350,7 +350,7 @@ GameObject:
   - component: {fileID: 447088955}
   - component: {fileID: 447088957}
   - component: {fileID: 447088956}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Background
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -4251,7 +4251,7 @@ GameObject:
   - component: {fileID: 684983827}
   - component: {fileID: 684983826}
   - component: {fileID: 684983825}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Bricks
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -5437,7 +5437,7 @@ GameObject:
   - component: {fileID: 1381525422}
   - component: {fileID: 1381525421}
   - component: {fileID: 1381525420}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Ground
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -6514,7 +6514,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1804718504}
   - component: {fileID: 1804718503}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Grid
   m_TagString: Untagged
   m_Icon: {fileID: 0}
